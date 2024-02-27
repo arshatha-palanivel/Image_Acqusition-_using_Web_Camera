@@ -35,8 +35,8 @@ Rotate the frame using the cv2.rotate().
 
 ## Program
 ```py
-### Developed By: ARSHATHA P
-### Register No: 212222230012
+Developed By: ARSHATHA P
+Register No: 212222230012
 ```
 
 ## i) Write the frame as JPG file
